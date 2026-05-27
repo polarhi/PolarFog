@@ -30,14 +30,3 @@ Given a clear intensity image, PolarFog can generate:
 The framework integrates physical polarization degradation modeling, depth-aware scene priors, fog-density modulation and a one-step diffusion-based generation strategy.
 
 ---
-
-## Framework
-
-<p align="center">
-  <img src="assets/framework.jpg" width="900">
-</p>
-
-PolarFog consists of two main components:
-
-1. **Foggy intensity generation**  
-2. **Polarization information regression**  
