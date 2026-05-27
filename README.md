@@ -22,10 +22,10 @@ Polarization imaging provides useful information for vision and restoration task
 
 Given a clear intensity image, PolarFog can generate:
 
-- foggy intensity image `I`
-- maximum polarization image `Imax`
-- minimum polarization image `Imin`
-- degree of linear polarization image `DoLP`
+- Foggy intensity image `I`
+- Maximum polarization image `Imax`
+- Minimum polarization image `Imin`
+- Degree of linear polarization image `DoLP`
 ---
 ## Video Demo
 
