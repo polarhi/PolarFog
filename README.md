@@ -29,7 +29,7 @@ Given a clear intensity image, PolarFog can generate:
 ---
 ## DoLP Demo
 
-The following video shows the generated DoLP results by the comutational imaging framework PolarFog.
+The following video shows the generated DoLP results by the computational imaging framework PolarFog.
 
 <p align="center">
   <video src="assets/dolp.mp4" width="900" controls muted loop>
