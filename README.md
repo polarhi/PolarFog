@@ -29,7 +29,7 @@ Given a clear intensity image, PolarFog can generate:
 ---
 ## Video Demo
 
-The following demos show the clear input images, the generated foggy intensity images, and the corresponding DoLP results produced by the computational imaging framework PolarFog.
+The following demos show the clear input images, the generated foggy intensity images and the corresponding DoLP results produced by the computational imaging framework PolarFog.
 
 <table>
   <tr>
