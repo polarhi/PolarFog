@@ -27,7 +27,7 @@ Given a clear intensity image, PolarFog can generate:
 - minimum polarization image `Imin`
 - degree of linear polarization image `DoLP`
 
-The framework integrates physical polarization degradation modeling, depth-aware scene priors, fog-density modulation, and a one-step diffusion-based generation strategy.
+The framework integrates physical polarization degradation modeling, depth-aware scene priors, fog-density modulation and a one-step diffusion-based generation strategy.
 
 ---
 
