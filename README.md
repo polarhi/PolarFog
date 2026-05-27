@@ -40,5 +40,5 @@ The following video shows the generated DoLP results under controllable fog dens
 If the video is not displayed correctly, please open it directly:
 
 <p align="center">
-  <a href="assets/dolp_demo.mp4">View DoLP demo video</a>
+  <a href="assets/dolp.mp4">View DoLP demo video</a>
 </p>
