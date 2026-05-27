@@ -33,7 +33,7 @@ The following video shows the generated DoLP results by the computational imagin
 
 <p align="center">
   <video width="900" controls muted loop>
-    <source src="https://github.com/polarhi/PolarFog/tree/main/assets/dolp_demo.mp4" type="video/mp4">
+    <source src="https://github.com/polarhi/PolarFog/tree/main/assets/dolp.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
