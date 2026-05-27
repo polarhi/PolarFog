@@ -68,3 +68,4 @@ The following demos show the clear input images, the generated foggy intensity i
 </table>
 
 ## Installation
+More details will be published soon.
