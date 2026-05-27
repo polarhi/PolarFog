@@ -40,12 +40,4 @@ The framework integrates physical polarization degradation modeling, depth-aware
 PolarFog consists of two main components:
 
 1. **Foggy intensity generation**  
-   A one-step diffusion-based model generates foggy intensity images under specified fog-density conditions.
-
 2. **Polarization information regression**  
-   A depth-guided dual-branch network predicts a physically constrained polarization coefficient map, which is used to derive `Imax` and `Imin`.
-
-The relationship between the generated polarization extrema and the foggy intensity image is constrained as:
-
-```math
-I_{\max} = \delta I, \quad I_{\min} = (1-\delta) I
