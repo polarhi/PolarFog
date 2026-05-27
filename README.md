@@ -29,45 +29,40 @@ Given a clear intensity image, PolarFog can generate:
 ---
 ## DoLP Demo
 
-The following videos show the clear input images, the generated foggy intensity images, and the corresponding DoLP results produced by the computational imaging framework PolarFog.
+The following demos show the clear input images, the generated foggy intensity images, and the corresponding DoLP results produced by the computational imaging framework PolarFog.
 
-<p align="center">
-  <b>Clear Input Video</b>
-</p>
-
-<p align="center">
-  <video width="900" controls muted loop>
-    <source src="https://github.com/polarhi/PolarFog/raw/main/assets/clear.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  <b>Generated Foggy Intensity Video</b>
-</p>
-
-<p align="center">
-  <video width="900" controls muted loop>
-    <source src="https://github.com/polarhi/PolarFog/raw/main/assets/foggy_intensity.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  <b>Generated DoLP Video</b>
-</p>
-
-<p align="center">
-  <video width="900" controls muted loop>
-    <source src="https://github.com/polarhi/PolarFog/raw/main/assets/dolp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-If the videos are not displayed correctly, please open them directly:
-
-<p align="center">
-  <a href="assets/clear.mp4">View clear input video</a> |
-  <a href="assets/foggy_intensity.mp4">View foggy intensity video</a> |
-  <a href="assets/dolp.mp4">View DoLP demo video</a>
-</p>
+<table>
+  <tr>
+    <td align="center"><b>Clear Input Video</b></td>
+    <td align="center"><b>Generated Foggy Intensity Video</b></td>
+    <td align="center"><b>Generated DoLP Video</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/clear.mp4">
+        <img src="assets/clear_cover.png" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/foggy_intensity.mp4">
+        <img src="assets/foggy_intensity_cover.png" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/dolp.mp4">
+        <img src="assets/dolp_cover.png" width="280">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/clear.mp4">View video</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/foggy_intensity.mp4">View video</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/polarhi/PolarFog/raw/main/assets/dolp.mp4">View video</a>
+    </td>
+  </tr>
+</table>
