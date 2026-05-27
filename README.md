@@ -27,3 +27,22 @@ Given a clear intensity image, PolarFog can generate:
 - minimum polarization image `Imin`
 - degree of linear polarization image `DoLP`
 ---
+## DoLP Demo
+
+The following video shows the generated DoLP results under controllable fog densities, from light fog to severe fog.
+
+<p align="center">
+  <video src="assets/dolp_demo.mp4" width="900" controls muted loop>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <sub>Generated DoLP results under different fog-density conditions.</sub>
+</p>
+
+If the video is not displayed correctly, please open it directly:
+
+<p align="center">
+  <a href="assets/dolp_demo.mp4">View DoLP demo video</a>
+</p>
