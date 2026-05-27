@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> |
-  <a href="#dolp-video-demo">DoLP Demo</a> |
+  <a href="#video-demo">Video Demo</a> |
   <a href="#installation">Installation</a> |
   <a href="#inference">Inference</a> |
   <a href="#citation">Citation</a>
@@ -27,7 +27,7 @@ Given a clear intensity image, PolarFog can generate:
 - minimum polarization image `Imin`
 - degree of linear polarization image `DoLP`
 ---
-## DoLP Demo
+## Video Demo
 
 The following demos show the clear input images, the generated foggy intensity images, and the corresponding DoLP results produced by the computational imaging framework PolarFog.
 
