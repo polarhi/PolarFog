@@ -37,10 +37,6 @@ The following video shows the generated DoLP results under controllable fog dens
   </video>
 </p>
 
-<p align="center">
-  <sub>Generated DoLP results under different fog-density conditions.</sub>
-</p>
-
 If the video is not displayed correctly, please open it directly:
 
 <p align="center">
