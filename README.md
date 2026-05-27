@@ -34,7 +34,7 @@ The framework integrates physical polarization degradation modeling, depth-aware
 ## Framework
 
 <p align="center">
-  <img src="assets/framework.png" width="900">
+  <img src="assets/framework.jpg" width="900">
 </p>
 
 PolarFog consists of two main components:
