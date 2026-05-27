@@ -29,7 +29,33 @@ Given a clear intensity image, PolarFog can generate:
 ---
 ## DoLP Demo
 
-The following video shows the generated DoLP results by the computational imaging framework PolarFog.
+The following videos show the clear input images, the generated foggy intensity images, and the corresponding DoLP results produced by the computational imaging framework PolarFog.
+
+<p align="center">
+  <b>Clear Input Video</b>
+</p>
+
+<p align="center">
+  <video width="900" controls muted loop>
+    <source src="https://github.com/polarhi/PolarFog/raw/main/assets/clear.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <b>Generated Foggy Intensity Video</b>
+</p>
+
+<p align="center">
+  <video width="900" controls muted loop>
+    <source src="https://github.com/polarhi/PolarFog/raw/main/assets/foggy_intensity.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <b>Generated DoLP Video</b>
+</p>
 
 <p align="center">
   <video width="900" controls muted loop>
@@ -38,8 +64,10 @@ The following video shows the generated DoLP results by the computational imagin
   </video>
 </p>
 
-If the video is not displayed correctly, please open it directly:
+If the videos are not displayed correctly, please open them directly:
 
 <p align="center">
+  <a href="assets/clear.mp4">View clear input video</a> |
+  <a href="assets/foggy_intensity.mp4">View foggy intensity video</a> |
   <a href="assets/dolp.mp4">View DoLP demo video</a>
 </p>
