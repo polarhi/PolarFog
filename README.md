@@ -16,7 +16,7 @@
 
 ## Overview
 
-**PolarFog** is a physics-informed computational imaging framework for controllable foggy polarization image generation from a single clear intensity image.
+**PolarFog** is a physics-informed fusion imaging framework for controllable foggy polarization image generation from a clear intensity image.
 
 Polarization imaging provides useful information for vision and restoration tasks in foggy environments. However, acquiring strictly pixel-aligned clear and foggy polarization image pairs in real-world scenes is difficult. PolarFog aims to alleviate this data bottleneck by generating foggy polarization-related images under controllable fog densities.
 
