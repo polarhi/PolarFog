@@ -1,7 +1,7 @@
 # PolarFog
 
 <p align="center">
-  <b>PolarFog: A Computational Imaging Framework for Controllable Foggy Polarization Image Generation</b>
+  <b>PolarFog: Physics-Informed Information Fusion for Controllable Foggy Polarization Image Generation</b>
 </p>
 
 <p align="center">
